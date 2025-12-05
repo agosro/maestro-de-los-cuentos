@@ -35,7 +35,6 @@ Un mundo encantado donde un gatito narrador responde preguntas sobre historias m
 
 ### 🌟 Portada / Hero
 
-> *(Agregá acá la captura que quieras, o te las preparo yo con estilo recortado y sombra)*
 > ![Hero Placeholder](demo/hero.PNG)
 
 ### 📚 Sección de cuentos
