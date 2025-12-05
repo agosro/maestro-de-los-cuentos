@@ -1,14 +1,3 @@
-¡Perfecto Agos! Te preparo una **versión mejorada y hermosa del README**, con:
-
-✅ Badges profesionales
-✅ Sección de imágenes
-✅ Espacio para GIF de demo
-✅ Diseño súper prolijo para GitHub
-
-Queda *premium*, digno de portfolio 😎✨
-
----
-
 # 🌟 **El Maestro de los Cuentos — App Mágica con RAG + IA + React**
 
 Un mundo encantado donde un gatito narrador responde preguntas sobre historias mágicas 🐱📖✨
