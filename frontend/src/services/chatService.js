@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000"; // tu backend local
+const API_URL = import.meta.env.VITE_BACKEND_URL;
 
 export async function preguntarAlBackend(texto) {
   const res = await fetch(`${API_URL}/preguntar`, {
