@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+*/venv/
+
+# Variables de entorno
+.env
+*/.env
+
+# Cache de Python
+__pycache__/
+*/__pycache__/
+
+# Archivos de ChromaDB
+chroma/
+*/chroma/
+
+# Node_modules frontend
+node_modules/
+*/node_modules/
+
+# Build de frontend
+dist/
+*/dist/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

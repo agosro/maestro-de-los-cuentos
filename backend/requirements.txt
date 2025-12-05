@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+cohere 
+chromadb 
+python-dotenv 
+langchain-text-splitters
