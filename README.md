@@ -25,7 +25,7 @@ Un mundo encantado donde un gatito narrador responde preguntas sobre historias m
 
 > ![Demo Placeholder](demo/gif-1.gif)
 
-> ![Demo Placeholder](demo/gif-2.2-gif)
+> ![Demo Placeholder](demo/gif-2.2.gif)
 
 ---
 
